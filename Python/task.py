@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 def find_min_punctuation_sentence(text):
     sentences = text.split('.')  # Разделение текста на предложения по точкам
     sentences = [sentence.strip() for sentence in sentences if sentence.strip()]  # Удаление лишних пробелов и пустых предложений

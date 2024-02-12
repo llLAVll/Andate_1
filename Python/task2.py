@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 def add_line_numbers(input_filename, output_filename):
     try:
         with open(input_filename, 'r', encoding='utf-8') as input_file:
