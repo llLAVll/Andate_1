@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 # open the file file2.txt in read mode  
 with open("file2.txt", "r") as fileptr:
    # initially the filepointer is at 0  

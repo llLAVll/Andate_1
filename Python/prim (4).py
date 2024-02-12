@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 # open the file2.txt in append mode. Create a new file if no such file exists.
 fileptr = open("file2.txt", "w")
 # appending the content to the file
