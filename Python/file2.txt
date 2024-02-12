@@ -1,2 +1,1 @@
-Python is the modern day language. It makes things so simple.
-It is the fastest-growing programing language
+1: Привет, мой мир. Тебя я так люблю...
