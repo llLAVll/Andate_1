@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
+#pip install black
+#pip install flake
 
 def find_min_punctuation_sentence(text):
     sentences = text.split('.')  # Разделение текста на предложения по точкам
