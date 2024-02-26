@@ -5,8 +5,8 @@
 fileptr = open("file2.txt", "w")
 # appending the content to the file
 fileptr.write(
-   "Python is the modern day language. It makes things so simple.\n"
-"It is the fastest-growing programing language"
+    "Python is the modern day language. It makes things so simple.\n"
+    "It is the fastest-growing programing language"
 )
 # closing the opened the file
 fileptr.close()
